@@ -1,7 +1,9 @@
 IDA Pro zinzolin theme
 ======================
 
-Awesome (37%) and awful (63%) IDA Pro theme. Proof:
+Awesome (37%) and awful (63%) IDA Pro theme.
+
+Proof:
 
 ![Capture 0](https://raw.githubusercontent.com/rootbsd/IDA_Pro_zinzolin_theme/master/images/Capture0.PNG)
 
